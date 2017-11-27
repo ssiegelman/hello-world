@@ -1,2 +1,3 @@
 # hello-world
-first practive repository
+first practice repository
+learning new skillset for cloud initatives
